@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LightningWeb/static/css/main.3d9b4321.css",
+    "main.js": "/LightningWeb/static/js/main.58578d8a.js",
+    "static/js/787.31e22fa5.chunk.js": "/LightningWeb/static/js/787.31e22fa5.chunk.js",
+    "index.html": "/LightningWeb/index.html",
+    "main.3d9b4321.css.map": "/LightningWeb/static/css/main.3d9b4321.css.map",
+    "main.58578d8a.js.map": "/LightningWeb/static/js/main.58578d8a.js.map",
+    "787.31e22fa5.chunk.js.map": "/LightningWeb/static/js/787.31e22fa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d9b4321.css",
+    "static/js/main.58578d8a.js"
+  ]
+}

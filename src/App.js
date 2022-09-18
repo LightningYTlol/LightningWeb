@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import { Route , Link, Redirect } from 'react-router-dom'
-import Discord from './views/Discord.js'
+import Discord from './views/home.js'
 
 
 

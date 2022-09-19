@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import './navbar.css'
 import { RiMenu3Line, RiCloseLine} from 'react-icons/ri';
+import Button from 'react-bootstrap/Button';
 
 
 const Navbar = () => {
@@ -27,8 +28,8 @@ const Navbar = () => {
                                 <p><a href="/">Home</a></p>
                             </div>
                             <div className="panda__navbar-menu_container-links-sign">
-                                <p>Sign in</p>
-                                <button type="button">Sign up</button>
+                                <Button variant="primary" >Sign in</Button>
+                                <Button variant="secondary" >Sign up</Button>
                             </div>
                         </div>
                     )}
